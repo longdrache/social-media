@@ -1,6 +1,6 @@
 # Vn-Social Network
 ## Build a Social Network 
-## Khóa luận chuyên ngành khoá K18 hệ CLC Tiếng Việt trường Đại học Sư Phạm Kỹ Thuật TP.Hồ Chí Minh
+## Khóa luận tốt nghiệp khoá K18 hệ CLC Tiếng Việt trường Đại học Sư Phạm Kỹ Thuật TP.Hồ Chí Minh
 #### Feature of our Vn-Social Network:
 - Create your Posts and share to everyone.
 - Private conversation.
