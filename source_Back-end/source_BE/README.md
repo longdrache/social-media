@@ -1,2 +1,2 @@
 # E-Social-MXH
-Build a Social Network with MERN TIỂU LUẬN CHUYÊN NGÀNH K18 2021/2022 ĐH SƯ PHẠM KỸ THUẬT TP.HCM: Võ Phú Đức 18110101 Nguyễn Đình Long 18110148
+Build a Social Media KHÓALUẬN TỐT NGHIỆP K18 2023/2024 ĐH SƯ PHẠM KỸ THUẬT TP.HCM: Nguyễn Đình Long 18110148
